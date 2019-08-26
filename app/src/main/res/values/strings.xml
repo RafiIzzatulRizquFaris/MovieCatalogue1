@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Movie Kataloegue</string>
+
+    <string name="name_heroes">Nama Film</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers : Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Once Upon a Deadpool</item>
+        <item>How To Train Your Dragon : The Hidden World</item>
+        <item>Dragon Ball Super</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Marry Poppins Returns</item>
+        <item>Mortal Engines</item>
+        <item>Preman Pensiun</item>
+        <item>Robin Hood</item>
+        <item>Spider-Man : Into The Spider-Verse</item>
+        <item>The Girl In The Spider\'s Web</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Seasoned musician Jackson Maine discovers  and falls in love with  struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows, Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet finding a way to keep the band together amid the success and excess.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Between personal obligations and training for his next big fight against an opponent with ties to his family\'s past, Adonis Creed is up against the challenge of his life.</item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder and zero F\'s.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless\’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup\’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>Set just after the events of the Buu Saga of Dragon Ball Z, a deadly threat awakens once more. People lived in peace without knowing who the true heroes were during the devastating battle against Majin Buu. The powerful Dragon Balls have prevented any permanent damage, and our heroes also continue to live a normal life. In the far reaches of the universe, however, a powerful being awakens early from his slumber, curious about a prophecy of his defeat.</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>Captain Glass of the USS Arkansas discovers that a coup d\'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.</item>
+        <item>Many thousands of years in the future, Earth\’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</item>
+        <item>Sutomo (lahir di Surabaya, Jawa Timur, 3 Oktober 1920. Meninggal di Padang Arafah, Arab Saudi, 7 Oktober 1981 pada umur 61 tahun) lebih dikenal dengan sapaan akrab oleh rakyat sebagai Bung Tomo, adalah pahlawan yang terkenal karena peranannya dalam membangkitkan semangat rakyat untuk melawan kembalinya penjajah Belanda melalui tentara NICA, yang berakhir dengan pertempuran 10 November 1945 yang hingga kini diperingati sebagai Hari Pahlawan.</item>
+        <item>Raden Mas Soewardi Soerjaningrat (EBI: Suwardi Suryaningrat, sejak 1922 menjadi Ki Hadjar Dewantara, EBI: Ki Hajar Dewantara, beberapa menuliskan bunyi bahasa Jawanya dengan Ki Hajar Dewantoro; lahir di Pakualaman, 2 Mei 1889 – meninggal di Yogyakarta, 26 April 1959 pada umur 69 tahun; selanjutnya disingkat sebagai "Soewardi" atau "KHD") adalah aktivis pergerakan kemerdekaan Indonesia, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda. Ia adalah pendiri Perguruan Taman Siswa, suatu lembaga pendidikan yang memberikan kesempatan bagi para pribumi untuk bisa memperoleh hak pendidikan seperti halnya para priyayi maupun orang-orang Belanda.</item>
+        <item>A war hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a Spider-Man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>In Stockholm, Sweden, hacker Lisbeth Salander is hired by Frans Balder, a computer engineer, to retrieve a program that he believes it is too dangerous to exist.</item>
+        <item>Earl Stone, a man in his 80s, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he\’s just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+    </string-array>
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+    <string-array name="data_review">
+        <item>A Star is Born was met with a rapturous reception at its Venice Film Festival première earlier this year, and has since gone on to receive near universal critical acclaim (90% on Rotten Tomatoes at time of writing), with much speculation as to its staying-power come award season. And whilst I liked it, and found a great deal to admire, I didn\’t love it. At least I didn\’t love all of it. \n - by Stephen Campbell</item>
+        <item>I have to say that, overall, I had quite a blast watching this movie. It is indeed a good superhero and special effects extravaganza. In addition it is quite beautiful. A lot of the underwater scenes are very pleasing on the eye indeed. I am quite happy that I managed to drag my ass over to a theater and watch it on a IMAX screen. Some of the hype around it is perhaps a bit too much though. It does not quite reach the masterpiece level after all. \n - by Per Gunnar Jonsson</item>
+        <item>For a movie with this much riding it, to come out not feeling disappointed, is a massive achievement. While I absolutely do love it I had some things that I felt were maybe imperfect about Infinity War, but my biggest concern was that it seemed like it would be absolutely meaningless to somebody who didn\’t put in the effort of watching the 18 movies leading up to it. You can probably assuage that fear though, because I went to see it with two people who had only seen Black Panther at this point, and they both loved it, with minimal confusion. \n - by Gimly</item>
+        <item>The concept behind the mass crisis is where the movie fails. It\’s sort of explained and yet it isn\’t. There are too many inconsistencies and what appears to be plot holes. It\’s basically a bunch of malarkey and reflects lazy writing. People on message boards debate back-and-forth ad nauseam, but the movie\’s too nonsensical and meh to make it worth the effort. \n - by Wuchak</item>
+        <item>Bohemian Rhapsody is not a biography of Freddie Mercury, nor a biopic of Queen. It\’s a story based on a selection of key events occurring between the formation of the band and their appearance at Live Aid. As a Queen fan I found this film utterly engrossing and enjoyable. The acting brilliantly invokes the characters in the band and the music provides a thumping rhythm to carry the story along. Queen aficionados may be affronted by the out of sequence music performances and the highly selective approach to the story telling but if you can see past that, you\’ll enjoy a storming film with a spine-tingling conclusion as the Live Aid performance is brilliantly recreated. \n - by Richard_a_Kirk</item>
+        <item>Strong contender for best live-action Transformers movie ever made, but Christ, what a low fuckin\’ bar that is. The fact it isn\’t the clear and absolute winner is a devastating criticism. \n - by Gimly</item>
+        <item>that\’s the movie I wanted to see badly for a long time I watched its first part that was too awesome and creed 2 is marvelous I had to do my college homework but I skipped that just to watch creed 2 the training part and the last fight I can\’t describe in words what I feels after watched. \n - by frank12</item>
+        <item>there hasn\’t been a recent review yet</item>
+        <item>The best dream-works movie yet for kids and quizlet teens !!! It has a great story, great animation and great characters here\’s my review: The story: 10/10 the animation: 10/10 and the characters: 10/10 the movie: 10/10!!! \n - by betty.vogl</item>
+        <item>All in all, Dragon Ball Z might be better due to its impeccable balance between story and action. However, Dragon Ball Super will always be the saga that I will never forget. The epicness surrounding the characters, the beautifully choreographed fight scenes, the jaw-dropping animation quality and the chills induced by the amazing score … It\’s so freaking awesome! It\’s a fact that it took a while to get to the level the show presented in the last arc. The first couple of “seasons” are really painful, but the cinematic alternatives are a great way to partially skip the first 30 episodes or so. From the third arc on, it\’s an adventure that I will cherish for a long, long time. Super\’s fillers rarely feel like such and the series\’ attempts at comedy are actually pretty funny. \n - by msbreviews</item>
+        <item>If you\’re a comic-book fan, this trilogy is mandatory. If you love Marvel or DC, don\’t you dare use the word “grounded” without watching this saga first. Shyamalan, see you around! \n - by msbreviews</item>
+        <item>This movie could have been decent, if the producers and script-writers had only spent some time researching facts about how the military and special forces work IRL. Instead, they decided to throw reality to the wind and use fantasy and make-believe to create contrived conveniences to support a predictable storyline. I don\’t mind when a movie asks me to suspend belief a little. But, this one asks us to leave all rational thinking at the door. \n - by thecrustycurmudgeon</item>
+        <item>Apart from that, end Tom\’s whining and naivety, I really liked this movie. It was the kind of over the top, fantasy/fiction movie with a big budget that you do not see every day. Of course the dickwads, a.ka “critics”) at Rotten Tomatoes and other mainstream media assholes did their best to tell everyone how bad it was. As usual that\’s just the stuff that comes out of the south end of a north bound bull. \n - by Per Gunnar Jonsson</item>
+        <item>The entire quality of animation and visual effects that are present in Mary Poppins Returns almost to perfect. Everything goes fancy and there\'s no slightest reproach in this section. So, besides being nominated for \"Best Original Score\", Mary Poppins Returns was also nominated for \"Best Picture\" at the 2019 Golden Globe event. \n - by kincir.com</item>
+        <item>Not just comedy. This film is also full of moral values, you know! A lot of lessons can be taken from the movie Preman Pensiun. One of them is that the lead is not only giving orders, but also bearing all the problems of the people we lead. When members get into trouble, the leader also feels the impact. \n - by kincir.com</item>
+        <item>there hasn\’t been a recent review yet</item>
+        <item>It\’s true I liked it less than perhaps the vast majority of Spider-Verse\’s audience, but this was still great, the animation enamouring, and the depth of its story and reference totally engaging. Not to me the best Spider-Man movie as many have said, (that honour still goes to Homecoming) but a blast all the same. \n - by Gimly</item>
+        <item>In the end we are left with a film that could have been greater than it is, but which was hobbled by a poor script filled with overly convenient contrivances. The film\’s one saving grace is Foy, who does the most with what she is given.</item>
+        <item>there hasn\’t been a recent review yet</item>
+        <item>On the other hand Venom is really the star of the movie. Both as a “thing” and as a character. He is a real bad-ass, quite funny and really everything that Eddie should have been as a character. He even develops more as a character than previously mentioned douche-bag. It\’s a shame since otherwise this would have been a great movie. The story is simple but works well for this kind of movie. There are no silly twists and convoluted sub-plots. The main protagonist, as poor as he is, at least do not carry a lot of past history trying to explain God knows what and such stuff. If the character of the main protagonist would have been more likable this would have been a great movie. Now it is “just” good.</item>
+    </string-array>
+</resources>
